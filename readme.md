@@ -28,6 +28,14 @@ git add . / git add index.html
 git commit -m "msg"
 git push origin main
 
+
+git branch
+git branch <branch name>
+git brannch development
+git branch checkout <branch name>
+git branch checkout development
+
+
 Method - 2
 Folder - Computer
 git init
