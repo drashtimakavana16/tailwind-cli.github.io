@@ -35,3 +35,6 @@ git remote add <link>
 git add .
 git commit -m "tailwind-cli"
 git push origin main
+
+git branch
+git branch <name>
