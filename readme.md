@@ -20,9 +20,18 @@ write into package.json "scripts": {
 9.Open index.html link -  <link rel="stylesheet" href="./output.css">
 10.Open Terminal npm run start
 
+
+Method - 1
 git - repo create
 git clone <link>
 git add . / git add index.html
 git commit -m "msg"
 git push origin main
 
+Method - 2
+Folder - Computer
+git init
+git remote add <link>
+git add .
+git commit -m "tailwind-cli"
+git push origin main
